@@ -1,53 +1,48 @@
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 .large-title {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 34px;
 }
 
 .title {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 18px;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 34px;
 }
 
-.text-lg {
+.text-rg {
   font-weight: 400;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 18px;
 }
 
 .text-md {
-  font-weight: 400;
+  font-weight: 500;
   font-size: 15px;
-  line-height: 17px;
-}
-
-.text-rg-bd {
-  font-weight: 700;
-  font-size: 14px;
   line-height: 18px;
 }
 
-span,
-p,
-a,
-div,
-input,
-.text-rg {
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 16px;
+
+.text-сaption-md {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
 }
 
-.caption {
+.text-caption-rg {
   font-weight: 400;
   font-size: 12px;
   line-height: 12px;
 }
 
+.text-caption-sm {
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 8px;
+}
