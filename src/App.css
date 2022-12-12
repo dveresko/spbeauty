@@ -1,1 +1,13 @@
 /* Временные стили добавлять здесь */
+.myclass {
+    margin-top: 64px;
+}
+
+.myborder {
+    border-radius: 24px;
+    border: solid #E2E8F0 1px;
+}
+
+.mytitle {
+    color: #94a3b8;
+}
